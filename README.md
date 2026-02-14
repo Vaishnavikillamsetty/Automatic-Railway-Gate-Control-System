@@ -52,6 +52,7 @@ if (distance < 20) {
 
 ## 🖼️ Circuit Diagram
 
+![Circuit Diagram](circuit.jpeg)
 
 ---
 
